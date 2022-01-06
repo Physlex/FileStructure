@@ -2,7 +2,6 @@
 *.d
 
 #Ignore Libs
-TODO/
 bin/
 /TODO
 
