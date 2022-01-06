@@ -4,6 +4,7 @@
 #Ignore Libs
 TODO/
 bin/
+/TODO
 
 # Compiled Object files
 *.slo
