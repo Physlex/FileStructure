@@ -3,7 +3,7 @@
 
 #Ignore Libs
 bin/
-/TODO
+TODO/
 
 # Compiled Object files
 *.slo
