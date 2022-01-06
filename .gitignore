@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+#Ignore Libs
+TODO/
+bin/
+
 # Compiled Object files
 *.slo
 *.lo
