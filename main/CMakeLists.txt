@@ -10,3 +10,5 @@ endif() #The only language I have ever used that needs to define the end of an i
 
 #Basically sets up the project to be properly defined in software engineering terminology like version control and early documentation
 project(CmakePropah VERSION 0.8 DESCRIPTION "A project to properly understand the basics of modern cMake" LANGUAGES CXX)
+
+add_executable(CardGameTest src/main.cpp include/Card.h) #My very first executable
