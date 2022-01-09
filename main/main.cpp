@@ -1,4 +1,4 @@
-#include "include/private/Card.h"
+#include "include/Card.h"
 
 int main()
 {
