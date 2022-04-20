@@ -2,7 +2,7 @@
 
 Hello, I am Alexander Williams-Letondre, a student at the university of lethbridge.
 I have finally had the chance to properly understand how to begin developing in a
-modern cmake environment. This revolution, means I can finally start compiling
+modern cmake environment. This revelation, means I can finally start compiling
 binaries from open source companies, and integrate libraries from different
 source codes into a new, developed, project.
 
